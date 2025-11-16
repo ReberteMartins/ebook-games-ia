@@ -24,7 +24,7 @@ Arquivo: [`prompts.md`](./prompts.md)
 
 ## 🔗 Link do Artigo
 
-👉 **[Adicione aqui o link do seu artigo após publicar]()**
+👉 **[Link](https://github.com/ReberteMartins/ebook-games-ia)**
 
 ---
 
